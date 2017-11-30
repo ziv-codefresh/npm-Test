@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-     "release-to-npm": "release-to-npm"
+     "npm-publish": "npm-publish"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
-      "release-to-npm": "^1.0.1"
+      "publish-npm": "^1.0.1"
   }
 }
