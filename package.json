@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-      "publish-npm": "^1.0.1"
+      "publish-for-npm": "^1.0.1"
   }
 }
